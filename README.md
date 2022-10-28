@@ -13,10 +13,10 @@ Setelah kita mengetahui rumasnya mari kita mulai masuk ke dalam pycharm
 ![ss1](https://user-images.githubusercontent.com/115530180/198537380-9b5f093e-87f4-4763-85b9-9f77ca7041a4.png)
 
 
-Setelah itu pertama-tama kita masukan code program ini
+Setelah kita masukan float dan nilai pi nya
 
 ``` 
-import math
+pi = 3.14
 r = float(input("Masukan Jari-jari : "))
 ```
 
@@ -25,8 +25,8 @@ r = float(input("Masukan Jari-jari : "))
 Lalu selanjutnya masukan rumus luas dan keliling lingkarannya
 
 ```
-luas = math.pi*(r*r)
-keliling = 2*math.pi*r
+luas = pi*(r*r)
+keliling = 2*pi*r
 ```
 
 ![ss3](https://user-images.githubusercontent.com/115530180/198537225-b8419aba-ca03-4cb0-81d3-25795f735bc8.png)
