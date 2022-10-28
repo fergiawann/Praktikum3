@@ -10,7 +10,7 @@ Keliling = 2 x π × r`
 
 Setelah kita mengetahui rumasnya mari kita mulai masuk ke dalam pycharm
 
-![ss1](https://user-images.githubusercontent.com/115530180/198531841-18328627-36a4-4afb-834f-070c07c27ccf.png)
+![ss1](https://user-images.githubusercontent.com/115530180/198537380-9b5f093e-87f4-4763-85b9-9f77ca7041a4.png)
 
 
 Setelah itu pertama-tama kita masukan code program ini
@@ -20,9 +20,7 @@ import math
 r = float(input("Masukan Jari-jari : "))
 ```
 
-![ss2](https://user-images.githubusercontent.com/115530180/198531979-f4af56e5-7f26-497c-a416-603944a5979f.png)
-
-
+![ss2](https://user-images.githubusercontent.com/115530180/198537297-24c674ee-ca34-4762-8153-bb8b600d883e.png)
 
 Lalu selanjutnya masukan rumus luas dan keliling lingkarannya
 
@@ -31,20 +29,22 @@ luas = math.pi*(r*r)
 keliling = 2*math.pi*r
 ```
 
-![ss3](https://user-images.githubusercontent.com/115530180/198531980-6e709b1a-5244-4319-b214-e7ec7b1e29ce.png)
+![ss3](https://user-images.githubusercontent.com/115530180/198537225-b8419aba-ca03-4cb0-81d3-25795f735bc8.png)
 
-dan terakhir masukkan code berikut
+Dan terakhir masukkan code berikut
 
 ```
 print ("Luas Lingkaran \t\t= ",luas)
 print ("Keliling Lingkaran\t= ",keliling)
 ```
-
-![ss4](https://user-images.githubusercontent.com/115530180/198531994-60af36d6-3452-4a34-8605-d76eaebe7035.png)
-
+![ss4](https://user-images.githubusercontent.com/115530180/198537185-7193aa20-d967-47d9-b697-dc645a9c81cf.png)
 
 
+Oke lalu kita run codenya dan kita masukan jari-jari lingkarannya di terminal
 
+![ss5](https://user-images.githubusercontent.com/115530180/198537950-d9e73c32-4c3c-449d-94a1-80674204d8e8.png)
+
+Maka akan keluar output seperti diatas dan kita sudah mendapatkan hasil dari luas dan keliling lingkarannya
 
 
 
