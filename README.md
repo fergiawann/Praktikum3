@@ -56,11 +56,10 @@ Maka akan keluar output seperti diatas dan kita sudah mendapatkan hasil dari lua
 
 ```
 Deskripsi :
-
-* Pertama kita masukan terlebih dahulu pi nya
-* Lalu kemudian nilai r nya kita masukan
-* Hitung luas dan keliling lingkaran dengan rumus 
-   *luas = pi*(r*r)
-   *keliling = 2*pi*r
-* Tampilkan luas dan keliling lingkaran
+1. Pertama kita masukan terlebih dahulu pi nya
+2. Lalu kemudian nilai r nya kita masukan
+3. Hitung luas dan keliling lingkaran dengan rumus 
+   luas = pi*(r*r)
+   keliling = 2*pi*r
+4. Tampilkan luas dan keliling lingkaran
 ```
