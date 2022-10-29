@@ -49,7 +49,17 @@ Oke lalu kita run code programnya
 
 Maka akan keluar output seperti diatas dan kita sudah mendapatkan hasil dari luas dan keliling lingkarannya
 
+## Flowchart Luas Dan Keliling Lingkaran
+
+![ss6](https://user-images.githubusercontent.com/115530180/198752704-01cf9b2b-9347-4e70-a2fb-bf20db6ffb79.jpg)
 
 
-
-
+```
+Deskripsi :
+* Pertama kita masukan terlebih dahulu pi nya
+* Lalu kemudian nilai r nya kita masukan
+* Hitung luas dan keliling lingkaran dengan rumus 
+  luas = pi*(r*r)
+  keliling = 2*pi*r
+* Tampilkan luas dan keliling lingkaran
+```
