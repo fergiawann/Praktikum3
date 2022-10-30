@@ -184,6 +184,7 @@ Kita run dan kita input nilai dari variabel a dan b
 ![ss-latihan12](https://user-images.githubusercontent.com/115530180/198864929-549db864-9639-4be5-8926-97e0e4dff877.png)
 
 Maka kita sudah mendapatkan hasil dari penggabungan, penambahan dan pembagian dari variabel a dan b
+
 ## Latihan 3
 Pada latihan terakhir kita ini, kita akan menyusun simbol "*" menjadi bentuk seperti di bawah ini menggunakan python
 
