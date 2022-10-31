@@ -79,7 +79,7 @@ print ('Z')
 
 ![ss-latihan1](https://user-images.githubusercontent.com/115530180/198863530-1b6d6117-3139-4301-9260-0a28e475f7f6.png)
 
-Lalu kita run dan outpunya akan menjadi seperti ini
+Lalu kita run dan outputnya akan menjadi seperti ini
 
 ![ss-latihan7](https://user-images.githubusercontent.com/115530180/198863543-736b5619-503f-4629-be66-37e4be313d87.png)
 
@@ -100,7 +100,7 @@ print (v, w, x, y, z, sep='-----')
 
 ![ss-latihan2](https://user-images.githubusercontent.com/115530180/198863721-b017cdec-49d9-441c-bbf7-c998a9ad6ff8.png)
 
-Lalu kita run dan outpunya akan menjadi seperti ini
+Lalu kita run dan outputnya akan menjadi seperti ini
 
 ![ss-latihan8](https://user-images.githubusercontent.com/115530180/198863731-c282d8eb-6320-4bf2-966c-4af8a2cf5f89.png)
 
@@ -126,7 +126,7 @@ print (10, 10**10)
 
 ![ss-latihan3](https://user-images.githubusercontent.com/115530180/198863885-e29c3ad6-f2ff-46ac-b1f2-6ca6219b0942.png)
 
-Lalu kita run dan outpunya akan menjadi seperti ini
+Lalu kita run dan outputnya akan menjadi seperti ini
 
 ![ss-latihan9](https://user-images.githubusercontent.com/115530180/198863897-00ffd17b-9449-4fbf-ab9a-0d93fb09ddb7.png)
 
@@ -151,7 +151,7 @@ print ('{0:>3} {1:>16}'.format(10, 10**10))
 
 ![ss-latihan4](https://user-images.githubusercontent.com/115530180/198864188-747ccc77-24e4-440f-854e-447fbb183588.png)
 
-Lalu kita run dan outpunya akan menjadi seperti ini
+Lalu kita run dan outputnya akan menjadi seperti ini
 
 ![ss-latihan10](https://user-images.githubusercontent.com/115530180/198864198-d8904526-1420-4ac3-8fe6-46e042bcde18.png)
 
